@@ -1,0 +1,9 @@
+ul{
+    color: white;
+    
+}
+        .row-fondo{
+            background-image: url(img/5oxrpv.jpg);
+            opacity: 0.9;
+            background-size: 220vh;
+        }
